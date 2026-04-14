@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+shap
+matplotlib
+
+
+pcos predictor , it is a ml model trained on logestic regression , not for medical diagonsis , used to predict pcos usinf symptoms
+pcos detection matters so that early detection is possible and prevention is better than cure
+dataset from kaggle , 42 columns and 546 rows
+trained data on my many algo like random classifier xgboost logestic regression , did classificaitoin report for each and chose log reg , used recall over
+precision beacause a women with pcos if predictid no than it will be blunder
+Tech stack — Python, scikit-learn, SHAP, Streamlit
