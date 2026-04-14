@@ -4,7 +4,7 @@ A machine learning-based decision support system that predicts the likelihood of
 
 This project combines **predictive modeling + explainable AI (XAI)** to support early awareness and risk stratification — not medical diagnosis.
 
-🔗 **Live Demo:** [Add your Streamlit link here]
+🔗 **Live Demo:** https://pcos-risk-predictor-t5ojdesn4ejnwekwa7tdf7.streamlit.app/
 
 ---
 
