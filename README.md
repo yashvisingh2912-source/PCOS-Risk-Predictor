@@ -143,7 +143,7 @@ This ensures:
 
 - **Frontend:** Streamlit  
 - **Backend:** Python  
-- **ML:** scikit-learn, XGBoost  
+- **ML:** scikit-learn  
 - **Explainability:** SHAP  
 - **Visualization:** Matplotlib  
 - **Data Processing:** pandas, numpy  
