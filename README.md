@@ -40,14 +40,14 @@ Late detection can lead to serious long-term complications such as infertility, 
 This project follows a **two-model architecture**:
 
 ### 1️⃣ Symptom-Based Model
-Designed for non-clinical users, leveraging:
+Designed for non-clinical users, leveraging :
 
 - Lifestyle factors  
 - Visible symptoms  
 - Reproductive history  
 
 ### 2️⃣ Clinical Model
-Designed for medical-grade structured inputs, including:
+Designed for medical-grade structured inputs, including :
 
 - Hormonal markers (FSH, LH, AMH, PRL, etc.)  
 - Ultrasound metrics (follicle count, endometrium)  
